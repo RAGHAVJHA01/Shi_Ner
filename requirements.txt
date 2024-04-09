@@ -1,0 +1,11 @@
+Spacy
+transformers
+PIL
+torch
+re
+Datasets
+transformers
+pytesseract
+https://huggingface.co/Kaelan/en_ner_bc5cdr_md/resolve/main/en_ner_bc5cdr_md-any-py3-none-any.whl
+https://huggingface.co/kormilitzin/en_core_med7_lg/resolve/main/en_core_med7_lg-any-py3-none-any.whl
+Keras_ocr
